@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AMShek.
 - 👀 I’m at present working on object detection (visual defect detection specifically) and ReID.
-- 🌱 I’m currently learning semi-supervised and unsupervised learning.
+- 🌱 I’m currently learning semi-supervised and unsupervised learning methods.
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 Can reach me by mibybymi@163.com.
 <!---
