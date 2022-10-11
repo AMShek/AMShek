@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T11:55:08.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="HXF1fU5JMke6VYgiU1k_" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T11:55:53.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="j2skepW1PnQfeGh5yFZF" version="20.4.0" type="github">
   <diagram name="dividemix" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="948" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="Usk3BoBNZcdvW3nPR0xG-3" value="$$\hat{X}_e^A,\hat{U}_e^A&lt;br&gt;$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="373" y="306" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Usk3BoBNZcdvW3nPR0xG-8" value="Co-refinement&lt;br&gt;Co-guessing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=2.5;fontColor=#143642;fontSize=13;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="338" y="370" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
