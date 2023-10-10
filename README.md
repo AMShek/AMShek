@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm Amber Shek(Shi), and I'm thrilled to have you visit my GitHub page.
 
-🔍 **My Recent Focus**: Lately, my work has centered around cutting-edge projects in Person ReID and Object Detection, with a special emphasis on Visual Defect Detection.
+🔍 **My Recent Focus**: Lately, my work has centered around projects in Person ReID and Object Detection, with a special emphasis on Visual Defect Detection.
 
 🌱 **Current Interests**: I'm passionate about exploring the fascinating world of semi-supervised and unsupervised learning methods. These approaches are not just my research interests; they represent my commitment to pushing the boundaries of knowledge.
 
